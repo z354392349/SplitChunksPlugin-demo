@@ -1,0 +1,19 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "import-local": "^1.0.0",
+    "lodash": "^4.17.10",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
